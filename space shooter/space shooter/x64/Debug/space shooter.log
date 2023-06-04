@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Scorpio\Desktop\projects\space shooter\space shooter\Source.cpp(42,20): warning C4244: '=': conversion from 'double' to 'DWORD', possible loss of data
+C:\Users\Scorpio\Desktop\projects\space shooter\space shooter\Source.cpp(77,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Scorpio\Desktop\projects\space shooter\space shooter\Source.cpp(90,19): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  space shooter.vcxproj -> C:\Users\Scorpio\Desktop\projects\space shooter\x64\Debug\space shooter.exe
